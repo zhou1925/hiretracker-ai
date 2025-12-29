@@ -1,0 +1,5 @@
+{
+  "name": "HireTrace AI",
+  "description": "A sophisticated job application tracker with integrated Gemini AI to analyze job descriptions, draft follow-up emails, and provide interview insights.",
+  "requestFramePermissions": []
+}
